@@ -1,10 +1,5 @@
 # Docker Compose Documentation
 
-
-markdown
-Copy code
-# Docker Compose Documentation
-
 This guide explains how to create a `docker-compose.yml` file and the meaning of its common parameters.
 
 ## What is Docker Compose?
